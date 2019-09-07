@@ -1,0 +1,207 @@
+
+
+
+/*======================================
+       DYNAMIC CSS: START;
+=======================================*/
+/*Common Style*/
+section{padding: 50px 0px;}
+.tittle-text{text-align: center;margin-bottom: 50px;}
+.tittle-text h3{text-transform: uppercase;}
+.tittle-text p{width: 60%;margin: 0px auto;}
+h1,h2,h3,h4,h5,h6{font-family: Montserrat;}
+p{font-family: Roboto;}
+a:hover{text-decoration: none; }
+
+/*======================================
+       DYNAMIC CSS: END;
+=======================================*/
+/*=====================================
+       HEADER: START                   
+       ==============================*/
+.header{
+    color: #B4B4B4;
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+    background: #EDEDED;
+}
+.logo{
+    padding-left: 170px;
+    width: 300px;
+    height: 100px; 
+}
+.website-description{
+   color: black;
+   font-size: 15px;
+   width: 560px;
+   height: 100px; 
+   padding-right: 50px;
+   padding-left: 100px;
+}
+
+
+.picture{
+    height: 300px;
+    background: white;
+}
+.notice{
+    color: white;
+    padding-right: 50px;
+    width: 100%;
+    height: 300px; 
+    background: black;
+    margin-right: 10px;
+ }
+ .notice-writing{
+     padding: 20px;
+ }
+
+
+ .gallery {
+  margin: 15px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 60px;
+}
+
+/*=====================================
+       HEADER: END                  
+       ==============================*/
+
+/*=====================================
+       CONTENT: START                   
+       ==============================*/
+
+.content{
+    color: #B4B4B4;
+    width: 100%;
+    height: 1000px;
+    padding-top: 50px;
+    background: #EDEDED;
+}
+
+.latest h4{
+    background: black;
+    color: white;
+    text-transform: uppercase;
+    width: 300px;
+    margin-top: 40px;
+}
+
+.latest{
+    padding-left: 100px;
+}
+
+
+.post h4{
+    color: #51545B;
+}
+.post-description{
+    width: 100%;
+    height: 200px;
+    color: black;
+}
+.post-image{
+    float: left;
+    width: 15%;
+}
+.post-writing{
+    float: right;
+    width: 65%;
+    padding: 10px;
+    text-align: justify;
+   
+}
+.author{
+    float: left;
+    width: 60%;
+    font-size: 10px;
+}
+
+.button{
+    float: right;
+    width: 35%;
+}
+
+.about-author h4{
+    background: black;
+    color: white;
+    text-transform: uppercase;
+    width: 250px;
+    margin-top: 40px;
+}
+
+
+.author-introducing{
+    width: 100%;
+    height: 120px;
+    color: black;
+}
+
+.author-image{
+    float: left;
+    width: 30%;
+}
+.author-education{
+    float: right;
+    width: 65%;
+    padding: 10px;
+}
+
+
+.about-sponsor h4{
+    background: black;
+    color: white;
+    text-transform: uppercase;
+    width: 120px;
+    margin-top: 40px;
+}
+
+.sponsor-introducing{
+    width: 100%;
+    height: 120px;
+    
+}
+
+.sponsor-image-2{
+    float: left;
+    width: 50%;
+
+}
+
+.sponsor-image-1{
+    float: left;
+    width: 50%;
+}
+
+.about-category h4{
+    background: black;
+    color: white;
+    text-transform: uppercase;
+    width: 160px;
+    margin-top: 140px;
+}
+
+ul li{
+    color: #51545B;
+    font-size: 20px;
+}
+
+ul {
+    list-style-image: url('../images/arrows.png');
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
